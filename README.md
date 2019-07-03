@@ -20,6 +20,7 @@ Adjustable frequency PWM up to about 1.6 KHz
 * 12-bit resolution for each output - for servos, that means about 4us resolution at 60Hz update rate
 * Configurable push-pull or open-drain output
 * Output enable pin to quickly disable all the outputs
+
 We wrapped up this lovely chip into a breakout board with a couple nice extras
 
 * Terminal block for power input (or you can use the 0.1" breakouts on the side)
